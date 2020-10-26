@@ -135,6 +135,12 @@ img {
   padding:40px;
 }
 
+.button-container{
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+
 .button {
   font-family: Clairvaux;
   font-size:50px;
