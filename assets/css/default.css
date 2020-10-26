@@ -24,7 +24,7 @@ img {
 }
 
 .wr-medium{
-  width: 500px;
+  width: 20%;
   border: 2px;
   border-color: yellow;
   float: left;
@@ -34,7 +34,7 @@ img {
 }
 
 .wr-smedium{
-  width: 300px;
+  width: 15%;
   border: 2px;
   border-color: green;
   float:left;
@@ -43,7 +43,7 @@ img {
 }
 
 .wr-small {
-  width: 200px;
+  width: 7%;
   border: 2px;
   border-color: red;
   float:left;
@@ -52,7 +52,7 @@ img {
 }
 
 .wr-large{
-  width: 700px;
+  width: 30%;
   border: 2px;
   border-color: green;
   float:left;
@@ -61,7 +61,7 @@ img {
 }
 
 .wr-tiny{
-  width: 100px;
+  width: 5%;
   border: 2px;
   border-color: green;
   float:left;
